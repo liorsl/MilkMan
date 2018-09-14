@@ -1,0 +1,8 @@
+name: MilkMan
+version: 1
+depend: [MiniaturePets]
+main: net.voigon.milkman.Main
+commands:
+  testspawn:
+  
+load: STARTUP
